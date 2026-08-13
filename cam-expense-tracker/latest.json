@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "First release published through the in-app updater.",
-  "pub_date": "2026-08-12T23:59:10.354Z",
+  "version": "0.1.1",
+  "notes": "Adds automatic update checking on launch.",
+  "pub_date": "2026-08-13T00:05:41.624Z",
   "platforms": {
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTN1cvanpsK1c1a2NqTGo0MG1wYk9HTG1wTXowTDUvaEtWd3lRR3Y5TVpuWkowVjZlQ1lEUWJ2SnB5d2tjYVREbElQSkxVNU9CWFVXcjQrYmR2Ymlwcnk2RU9uVkRNZ0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTc5MTQ2CWZpbGU6Q0FNIEV4cGVuc2UgVHJhY2tlcl8wLjEuMF9hcm02NC1zZXR1cC5leGUKQis3YWtjWlJjV1o5MENZUHJxcFovR3FUa0hDd3VrV25YcnB3VnZKU1p5d0ExSC9leGVPbXB3ZzJVM0FFUjdkb3p6eGtNMTljNUc3Y1l1QXdiZXo2QXc9PQo=",
-      "url": "https://github.com/amiller-rgb/shared-releases/releases/download/cam-expense-tracker-v0.1.0/CAM%20Expense%20Tracker_0.1.0_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTN1cvanpsK1c1a1ZJT25PbU95NFlRaElkODRpY3N5M3dwSUVBYVZialZsb0VoSEZuWWZHbWY3TEZubXJQLzJtZU5KSVBkWlNiL1pLUERkSGRDTzlGWWMzSitVNDFtTXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTc5NTM2CWZpbGU6Q0FNIEV4cGVuc2UgVHJhY2tlcl8wLjEuMV9hcm02NC1zZXR1cC5leGUKdEcyaS9SSmFKK05mWXNHaU9hb3VtcGNWNnlsZjRXOTJTU082c3dIdUNmQWNDbjhiMjdBbzRkd2dZRnljdEVlWHZiVzd1emxiNTlkVUV4UW1Cb0k0Qnc9PQo=",
+      "url": "https://github.com/amiller-rgb/shared-releases/releases/download/cam-expense-tracker-v0.1.1/CAM.Expense.Tracker_0.1.1_arm64-setup.exe"
     }
   }
 }
